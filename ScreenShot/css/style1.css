@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'Ray Bold';
+    font-style: Bold;
+    font-weight: 700;
+    src: url(../raytextrabold/Ray-ExtraBold.eot);
+    src: url(../raytextrabold/Ray-ExtraBold.eot?#iefix) format('embedded-opentype'),
+        url(../raytextrabold/Ray-ExtraBold.woff2) format('woff2'),
+        url(../raytextrabold/Ray-ExtraBold.woff) format('woff'),
+        url(../raytextrabold/Ray-ExtraBold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Ray Black';
+    font-style: normal;
+    font-weight: 700;
+    src: url(../rayblack/Ray-Black.eot);
+    src: url(../rayblack/Ray-Black.eot?#iefix) format('embedded-opentype'),
+        url(../rayblack/Ray-Black.woff2) format('woff2'),
+        url(../rayblack/Ray-Black.woff) format('woff'),
+        url(../rayblack/Ray-Black.ttf) format('truetype');
+}
+
+#contentbox {
+    display: inline-table;
+    max-width: 550px;
+    border: 1px solid;
+    border-radius: 15px;
+    margin-top: 60px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+    background-color: #ffffff;
+    box-sizing: border-box;
+}
+
+#avatar {
+    width: 90px;
+    height: 90px;
+    border-radius: 90px;
+    border: 2px solid deepskyblue;
+}
+
+#userdata {
+    color: white;
+    width: 500px;
+    padding-left: 10px;
+    line-height: 1.4;
+    font-size: 18px;
+}
+
+#username {
+    color: rgb(161, 161, 161);
+    font-size: 16px;
+}
+
+#akharintweet_logo {
+    width: 110px;
+    height: 110px;
+}
+
+#tweetext {
+    color: white;
+    direction: rtl;
+    font-size: 22px;
+}
+
+#footeri {
+    color: rgb(153, 153, 153);
+    font-size: 16px;
+}

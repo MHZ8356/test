@@ -1,0 +1,61 @@
+1658067613506	geckodriver	INFO	Listening on 127.0.0.1:36235
+1658067613535	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "37499" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileofA5WF"
+*** You are running in headless mode.
+1658067620162	Marionette	INFO	Listening on port 40809
+1658067620259	Marionette	WARN	TLS certificate errors will be ignored for this session
+1658067682360	geckodriver	INFO	Listening on 127.0.0.1:58101
+1658067682389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "52167" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileL6KT3q"
+*** You are running in headless mode.
+1658067686032	Marionette	INFO	Listening on port 33293
+1658067686108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1658067689497	Marionette	INFO	Stopped listening on port 33293
+1658067747102	geckodriver	INFO	Listening on 127.0.0.1:36291
+1658067747134	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "57991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaYu7FB"
+*** You are running in headless mode.
+1658067750698	Marionette	INFO	Listening on port 37229
+1658067750749	Marionette	WARN	TLS certificate errors will be ignored for this session
+1658067754173	Marionette	INFO	Stopped listening on port 37229
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658067796655	geckodriver	INFO	Listening on 127.0.0.1:37165
+1658067796686	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "49453" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBZSusZ"
+*** You are running in headless mode.
+1658067800260	Marionette	INFO	Listening on port 37007
+1658067800297	Marionette	WARN	TLS certificate errors will be ignored for this session
+1658067803769	Marionette	INFO	Stopped listening on port 37007
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1658067840606	geckodriver	INFO	Listening on 127.0.0.1:51337
+1658067840638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "40131" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEhA14o"
+*** You are running in headless mode.
+1658067843976	Marionette	INFO	Listening on port 34719
+1658067844050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1658067847153	Marionette	INFO	Stopped listening on port 34719
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+1658067884310	geckodriver	INFO	Listening on 127.0.0.1:59589
+1658067884339	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "54935" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2flmyL"
+*** You are running in headless mode.
+1658067887886	Marionette	INFO	Listening on port 46589
+1658067887951	Marionette	WARN	TLS certificate errors will be ignored for this session
+1658067890547	Marionette	INFO	Stopped listening on port 46589
+1658067932721	geckodriver	INFO	Listening on 127.0.0.1:33145
+1658067932753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "47943" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejRnGCE"
+*** You are running in headless mode.
+1658067936325	Marionette	INFO	Listening on port 38689
+1658067936364	Marionette	WARN	TLS certificate errors will be ignored for this session
+1658067943779	Marionette	INFO	Stopped listening on port 38689
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1658924231103	geckodriver	INFO	Listening on 127.0.0.1:62710
+1658927812676	geckodriver	INFO	Listening on 127.0.0.1:62731

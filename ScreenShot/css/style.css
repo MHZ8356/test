@@ -1,0 +1,166 @@
+@font-face {
+    font-family: 'Ray Bold';
+    font-style: normal;
+    font-weight: 700;
+    src: url(../raytextrabold/Ray-ExtraBold.eot);
+    src: url(../raytextrabold/Ray-ExtraBold.eot?#iefix) format('embedded-opentype'),
+        url(../raytextrabold/Ray-ExtraBold.woff2) format('woff2'),
+        url(../raytextrabold/Ray-ExtraBold.woff) format('woff'),
+        url(../raytextrabold/Ray-ExtraBold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Ray Black';
+    font-style: normal;
+    font-weight: 700;
+    src: url(../rayblack/Ray-Black.eot);
+    src: url(../rayblack/Ray-Black.eot?#iefix) format('embedded-opentype'),
+        url(../rayblack/Ray-Black.woff2) format('woff2'),
+        url(../rayblack/Ray-Black.woff) format('woff'),
+        url(../rayblack/Ray-Black.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'SanFran';
+    font-style: normal;
+    font-weight: 700;
+    src: url(../san/sfb.eot);
+    src: url(../san/sfb.eot?#iefix) format('embedded-opentype'),
+        url(../san/sfb.woff2) format('woff2'),
+        url(../san/sfb.woff) format('woff'),
+        url(../san/sfb.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'SanFranMedium';
+    font-style: normal;
+    font-weight: 700;
+    src: url(../SanMedium/SanMedium.eot);
+    src: url(../SanMedium/SanMedium.eot?#iefix) format('embedded-opentype'),
+        url(../SanMedium/SanMedium.woff2) format('woff2'),
+        url(../SanMedium/SanMedium.woff2) format('woff'),
+        url(../SanMedium/SanMedium.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Vazir';
+    font-style: normal;
+    font-weight: 700;
+    src: url(../vazir/Vazir.eot);
+    src: url(../vazir/Vazir.eot?#iefix) format('embedded-opentype'),
+        url(../vazir/Vazir.woff2) format('woff2'),
+        url(../vazir/Vazir.woff) format('woff'),
+        url(../vazir/Vazir.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'VazirBold';
+    font-style: bold;
+    font-weight: 700;
+    src: url(../vazirbold/Vazir-Bold.eot);
+    src: url(../vazirbold/Vazir-Bold.eot?#iefix) format('embedded-opentype'),
+        url(../vazirbold/Vazir-Bold.woff2) format('woff2'),
+        url(../vazirbold/Vazir-Bold.woff) format('woff'),
+        url(../vazirbold/Vazir-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Irancel';
+    font-style: normal;
+    font-weight: 700;
+    src: url(../Irancell/Irancell_Extrabold.eot);
+    src: url(../Irancell/Irancell_Extrabold.eot?#iefix) format('embedded-opentype'),
+        url(../Irancell/Irancell_Extrabold.woff2) format('woff2'),
+        url(../Irancell/Irancell_Extrabold.woff) format('woff'),
+        url(../Irancell/Irancell_Extrabold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Iransans';
+    font-style: bold;
+    font-weight: 700;
+    src: url(../Iransans/Iransans.eot);
+    src: url(../Iransans/Iransans.eot?#iefix) format('embedded-opentype'),
+        url(../Iransans/Iransans.woff2) format('woff2'),
+        url(../Iransans/Iransans.woff) format('woff'),
+        url(../Iransans/Iransans.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Iransansregular';
+    font-style: bold;
+    font-weight: 700;
+    src: url(../Iransansregular/Iransansregular.eot);
+    src: url(../Iransansregular/Iransansregular.eot?#iefix) format('embedded-opentype'),
+        url(../Iransansregular/Iransansregular.woff2) format('woff2'),
+        url(../Iransansregular/Iransansregular.woff) format('woff'),
+        url(../Iransansregular/Iransansregular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'SFArabic';
+    font-style: bold;
+    font-weight: 700;
+    src: url(../SFArabic/SF-Arabic.eot);
+    src: url(../SFArabic/SF-Arabic.eot?#iefix) format('embedded-opentype'),
+        url(../SFArabic/SF-Arabic.woff2) format('woff2'),
+        url(../SFArabic/SF-Arabic.woff) format('woff'),
+        url(../SFArabic/SF-Arabic.ttf) format('truetype');
+}
+
+#contentbox {
+    /* display: inline-table;
+    text-align: justify; */
+    text-justify: inter-word;
+    max-width: 1045px;
+    width: 1045px; /* 1045 */
+    border: 2px solid;
+    border-radius: 15px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 19px;
+    background-color: rgb(255, 255, 255);
+    box-sizing: border-box;
+}
+
+#avatar {
+    width: 140px;
+    height: 140px;
+    border-radius: 152px;
+    /* border: 2px solid deepskyblue; */
+}
+
+#userdata {
+    width: 950px;
+    padding-left: 19px;
+    font-family: 'Ray Bold';
+    line-height: 1.4;
+    font-size: 38px;
+}
+
+#username {
+    color: rgb(161, 161, 161);
+    font-size: 30px;
+}
+
+#akharintweet_logo {
+    width: 152px;
+    height: 152px;
+}
+
+#tweetext {
+    direction: rtl;
+    font-size: 42px;
+}
+
+#footeri {
+    font-family: 'VazirBold';
+    padding-top: 19px;
+    color: rgb(153, 153, 153);
+    font-size: 23px;
+}
+
+.hashtag {
+    color: #178bd3;
+}
